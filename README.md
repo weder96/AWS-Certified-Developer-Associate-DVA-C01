@@ -9,13 +9,11 @@ This study guide will help you pass the newer [AWS Certified Developer - Associa
 
 Below this repository all Exam guide items will be listed for studies.
 
-Stephane Maarek's Ultimate AWS Certified Solutions Architect Associate 2021 course (permanent discount available through this link) A Cloud Guru's AWS Certified Solutions Architect Associate SAA-C02 course
+Stephane Maarek's [Ultimate AWS Certified Developer Associate 2022 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) A Cloud Guru's Ultimate AWS Certified Developer Associate 2022 course
 
-The FAQs for the most critical services, included in the recommended reading list below
+Tutorials Dojo's AWS Certified Developer Associate Practice Exams, he has a website with [content briefs](https://tutorialsdojo.com/aws-cheat-sheets/) which helps a lot with every phase and new certifications, every step, Also defined here are direct links to cheat sheets.
 
-Tutorials Dojo's AWS Certified Solutions Architect Associate Practice Exams
-
-Andrew Brown's AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
+Main, answer the [AWS Certified Developer Associate Practice Exam Questions](https://www.udemy.com/course/aws-developer-associate-practice-exams/),6 Practice Tests, 390 Practice Questions, Cheat Sheets and Explanations, answer as many times as necessary, until you complete 80% to 90% accuracy, when you reach this mark and feel confident, you can mark and take the exam.
 
 Notes: If at any point you find yourself feeling uncertain of your progress and in need of more time, you can postpone your AWS exam date. Be sure to also keep up with the ongoing discussions in r/AWSCertifications as you will find relevant exam tips, studying material, and advice from other exam takers.
 
